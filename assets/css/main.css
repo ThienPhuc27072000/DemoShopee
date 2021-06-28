@@ -1316,10 +1316,21 @@ i.home-product-item__star--gold {
 }
 
 .footer-bottom {
+    margin-top: 20px;
     background-color: #ccc;
-
+    display: flex;
+    justify-content: center;
 }
 
 .footer__text {
+    text-align: center;
+    font-size: 1.5rem;
+}
 
+.footer__img {
+
+}
+
+.footer__img-bct {
+    width: 20%;
 }
